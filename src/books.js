@@ -1,0 +1,17 @@
+export default [
+  'Automate the Boring Stuff with Python: Practical Programming for Total Beginners',
+  'The Linux Command Line: A Complete Introduction',
+  'The Book of F#: Breaking Free with Managed Functional Programming',
+  'Learn Java the Easy Way: A Hands-On Introduction to Programming',
+  'Perl One-Liners: 130 Programs That Get Things Done',
+  'Ruby Under a Microscope: An Illustrated Guide to Ruby Internals',
+  'Learn You Some Erlang for Great Good!: A Beginner\'s Guide',
+  'Learn You A Haskell for Great Good!: A Beginner\'s Guide',
+  'Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer',
+  'Land of Lisp: Learn to Program in Lisp, One Game at a Time!',
+  'Python Crash Course: A Hands-On, Project-Based Introduction to Programming',
+  'Python Playground: Geeky Projects for the Curious Programmer',
+  'Think Like a Programmer: An Introduction to Creative Problem Solving',
+  'The Book of R: A First Course in Programming and Statistics',
+  'Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, and UNIX Systems',
+];
