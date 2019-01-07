@@ -3,15 +3,7 @@
 Web-extension / hobby project to provide ratings for books, movies, and games
 
 # Use case
-Some sites (in particular Netflix, HumbleBundle) sell or offer digital media.
-The products offered on these sites often don't include useful ratings. Large
-databases of rating information such as the international movie database (imdb),
-Rotten Tomatoes, and GoodReads offer aggregated crowd sourced ratings which
-typically provide a good estimate for the quality of an offering. These services
-typically offer RESTful web APIs to retrieve ratings, or a means of obtaining
-ratings. To solve the lack of good ratings for some services, RateIt sources
-rating information from these APIs, and adds the rating metadata to products
-without ratings, using a browser extension.
+Some sites offer products without ratings (e.g Netflix, HumbleBundle). RateIt aims to be an extension which provides ratings for those sites.
 
 # Books
 ## Implementation plan
