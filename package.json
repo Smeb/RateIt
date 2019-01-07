@@ -1,0 +1,22 @@
+{
+  "name": "RateIt",
+  "version": "0.0.1",
+  "description": "Inject rating information to certain websites (check Manifest.json)",
+  "author": "Smeb <bryves@gmail.com>",
+  "scripts": {
+    "build": "webpack -w --display-error-details --progress --colors",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^5.12.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.1"
+  }
+}

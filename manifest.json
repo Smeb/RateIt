@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "RateIt",
+  "version": "1.0",
+
+  "description": "Adds book rating information to HumbleBundle book bundles",
+
+  "icons": {
+    "48": "icons/border-48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.humblebundle.com/books/*"],
+      "js": ["src/rate_it.js", "src/books.js", "src/storage.js", "src/books_api.js"]
+    }
+  ]
+}
